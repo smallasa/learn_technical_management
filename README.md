@@ -1,6 +1,6 @@
 # learn_technical_management
 ```text
-原文地址：https://time.geekbang.org/column/article/7581
+原文地址：https://time.geekbang.org/column/intro/113
 
 个人声明：
 优秀的人帮我们总结了精华，而我之所以会写下来，一方面能加深我对知识的理解，另一方面也能够让我散发性思维思考。
